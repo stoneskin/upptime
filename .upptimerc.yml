@@ -8,7 +8,7 @@ sites:
   - name: Quote API oAuth
     url: https://quoteapi-uat.ipipeline.com/api/version
     headers:
-      - "Authorization: Bearer $OAUTH_TOKEN_Quote_UAT"
+      - "Authorization: Bearer $OAUTH_TOKEN_QUOTE_UAT"
       - "Content-Type: application/json"
   
   - name: Hacker News

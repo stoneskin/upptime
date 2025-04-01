@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "QuoteApi",
     "url": "https://quoteapi-uat.ipipeline.com/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/quoteapi-uat.ipipeline.com.ico",
@@ -28,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Quote API oAuth",
+    "url": "https://quoteapi-uat.ipipeline.com/api/version",
+    "icon": "https://icons.duckduckgo.com/ip3/quoteapi-uat.ipipeline.com.ico",
+    "slug": "quote-api-o-auth",
+    "status": "down",
+    "uptime": "6.96%",
+    "uptimeDay": "6.96%",
+    "uptimeWeek": "6.96%",
+    "uptimeMonth": "6.96%",
+    "uptimeYear": "6.96%",
+    "time": 50,
+    "timeDay": 50,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
+    "dailyMinutesDown": {
+      "2025-04-01": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 499,
-    "timeWeek": 499,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   },
   {

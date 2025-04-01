@@ -1,12 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: stoneskin # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: QuoteApi
     url: https://quoteapi-uat.ipipeline.com/swagger/index.html
+  - name: Quote API oAuth
+    url: https://quoteapi-uat.ipipeline.com/api/version
+    headers:
+      - "Authorization: Bearer $OAUTH_TOKEN_Quote_UAT"
+      - "Content-Type: application/json"
+  
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site

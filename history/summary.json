@@ -4,19 +4,19 @@
     "url": "https://quoteapi-uat.ipipeline.com/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/quoteapi-uat.ipipeline.com.ico",
     "slug": "quote-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 352,
-    "timeDay": 384,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 341,
+    "timeDay": 319,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-04-06": 1
+      "2025-04-06": 9
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2025-04-06": 467,
+      "2025-04-06": 476,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,

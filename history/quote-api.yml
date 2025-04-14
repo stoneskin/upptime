@@ -1,7 +1,7 @@
 url: https://quoteapi-uat.ipipeline.com/swagger/index.html
-status: up
-code: 200
-responseTime: 504
-lastUpdated: 2025-04-13T23:08:23.901Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-04-14T15:26:25.224Z
 startTime: 2025-04-01T17:19:11.725Z
 generator: Upptime <https://github.com/upptime/upptime>
